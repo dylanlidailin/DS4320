@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2026-02-07T00:00:00.000Z" agent="5.0" version="24.0.0" type="device">
+  <diagram name="4.1 ERD - Lou's List" id="erd-lous-list">
+    <mxGraphModel dx="1200" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="2" value="&lt;b&gt;Professors&lt;/b&gt;&lt;hr&gt;ProfessorID (PK)&lt;br&gt;Name&lt;br&gt;Department" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="140" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="3" value="&lt;b&gt;Rooms&lt;/b&gt;&lt;hr&gt;RoomID (PK)&lt;br&gt;Building&lt;br&gt;Capacity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="140" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="4" value="&lt;b&gt;Classes&lt;/b&gt;&lt;hr&gt;ClassID (PK)&lt;br&gt;CourseName&lt;br&gt;Subject&lt;br&gt;MeetingTime&lt;br&gt;ProfessorID (FK)&lt;br&gt;RoomID (FK)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="380" y="160" width="150" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="5" value="&lt;b&gt;Students&lt;/b&gt;&lt;hr&gt;StudentID (PK)&lt;br&gt;Name&lt;br&gt;Major" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="660" y="80" width="130" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="6" value="&lt;b&gt;Enrollments&lt;/b&gt;&lt;hr&gt;EnrollmentID (PK)&lt;br&gt;StudentID (FK)&lt;br&gt;ClassID (FK)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="660" y="260" width="130" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;startArrow=block;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="8" value="teaches (1 : many)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="7">
+          <mxGeometry x="-0.1" relative="1" as="geometry"><mxPoint x="10" y="-8" as="offset"/></mxGeometry>
+        </mxCell>
+        <mxCell id="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;startArrow=block;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.6;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="10" value="held in (1 : many)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="9">
+          <mxGeometry x="-0.1" relative="1" as="geometry"><mxPoint x="10" y="-8" as="offset"/></mxGeometry>
+        </mxCell>
+        <mxCell id="11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;startArrow=block;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="12" value="enrolled in (many)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="11">
+          <mxGeometry x="-0.1" relative="1" as="geometry"><mxPoint x="10" y="-8" as="offset"/></mxGeometry>
+        </mxCell>
+        <mxCell id="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;startArrow=block;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6" target="5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="14" value="enrolls (many)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="13">
+          <mxGeometry x="-0.1" relative="1" as="geometry"><mxPoint y="10" as="offset"/></mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
