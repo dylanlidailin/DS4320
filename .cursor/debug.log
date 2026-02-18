@@ -1,6 +1,0 @@
-{"timestamp": 1770602047.963884, "location": "4.3.4", "message": "cell_start", "data": {"conn_id": 4562043184}, "hypothesisId": "H2"}
-{"timestamp": 1770602047.9661062, "location": "4.3.4", "message": "after_read_sql", "data": {"conn_id": 4562043184}, "hypothesisId": "H1"}
-{"timestamp": 1770602047.9687061, "location": "4.3.4", "message": "conn_ok_before_cursor", "data": {"conn_id": 4562043184}, "hypothesisId": "H4"}
-{"timestamp": 1770602047.968931, "location": "4.3.4", "message": "before_insert", "data": {"conn_id": 4562043184}, "hypothesisId": "H1"}
-{"timestamp": 1770602047.969186, "location": "4.3.4", "message": "executing_insert", "data": {"conn_id": 4562043184}, "hypothesisId": "H3"}
-{"timestamp": 1770602047.970183, "location": "4.3.4", "message": "insert_committed", "data": {"conn_id": 4562043184}, "hypothesisId": "H4"}
