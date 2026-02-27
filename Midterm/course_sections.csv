@@ -1,0 +1,170 @@
+class_number,title,instructors,subject,section,catalog,term,meeting_days,start_time,end_time,location,enrollment
+15256,Foundation of Data Science,Brian Wright,DS,100,1001,Spring 2026,Mo|We,02:00 PM,03:15 PM,Nau Hall 101(On Grounds),153 / 240 
+15257,Foundation of Data Science,Ali Rivera,DS,101,1001,Spring 2026,Fr,02:00 PM,02:50 PM,Data Science Building Room 206(On Grounds),40 / 40 
+15296,Foundation of Data Science,TBD,DS,102,1001,Spring 2026,Fr,12:00 PM,12:50 PM,Data Science Building Room 206(On Grounds),27 / 40 
+15258,Foundation of Data Science,Ali Rivera,DS,103,1001,Spring 2026,Fr,01:00 PM,01:50 PM,Data Science Building Room 206(On Grounds),39 / 40 
+15259,Foundation of Data Science,TBD,DS,104,1001,Spring 2026,Fr,12:00 PM,12:50 PM,Data Science Building Room 306(On Grounds),34 / 40 
+15260,Foundation of Data Science,TBD,DS,105,1001,Spring 2026,Fr,01:00 PM,01:50 PM,Data Science Building Room 306(On Grounds),13 / 40 
+15248,Programming for Data Science,Mai Dahshan,DS,001,1002,Spring 2026,Mo|We,03:30 PM,04:45 PM,Data Science Building Room 305(On Grounds),68 / 75 
+15295,Programming for Data Science,Mai Dahshan,DS,002,1002,Spring 2026,Tu|Th,02:00 PM,03:15 PM,Data Science Building Room 305(On Grounds),68 / 75 
+15246,Data Science Systems,Jon Tupitza,DS,001,2002,Spring 2026,Mo|We|Fr,09:00 AM,09:50 AM,Data Science Building Room 305(On Grounds),35 / 47 
+15251,Data Science Systems,Jason Williamson,DS,002,2002,Spring 2026,Mo|We|Fr,10:00 AM,10:50 AM,Data Science Building Room 305(On Grounds),66 / 65 
+15309,Data Science Systems,Karsten Siller,DS,003,2002,Spring 2026,Mo|We|Fr,09:00 AM,09:50 AM,Data Science Building Room 205(On Grounds),26 / 65 
+15247,Communicating with Data,Nur Yildirim,DS,001,2003,Spring 2026,Tu|Th,09:30 AM,10:45 AM,Data Science Building Room 205(On Grounds),30 / 65 
+15261,Communicating with Data,Hannah Bako,DS,002,2003,Spring 2026,Mo|We|Fr,11:00 AM,11:50 AM,Data Science Building Room 305(On Grounds),40 / 65 
+15264,Data Ethics,Emanuel Moss,DS,001,2004,Spring 2026,Tu|Th,11:00 AM,12:15 PM,Data Science Building Room 305(On Grounds),29 / 65 
+19621,Data Ethics,David Danks,DS,002,2004,Spring 2026,Tu|Th,12:30 PM,01:45 PM,Data Science Building Room 206(On Grounds),32 / 47 
+18926,Value I: Ethics & Policy in Data Science - Major,Aaron Martin,DS,001,2024,Spring 2026,Mo|We,02:00 PM,03:15 PM,Data Science Building Room 205(On Grounds),62 / 65 
+18945,Value I: Ethics & Policy in Data Science - Major,Aaron Martin,DS,002,2024,Spring 2026,Mo|We,03:30 PM,04:45 PM,Data Science Building Room 205(On Grounds),59 / 65 
+15250,Foundations of Machine Learning,Terence Johnson,DS,001,3001,Spring 2026,Tu|Th,12:30 PM,01:45 PM,Data Science Building Room 305(On Grounds),64 / 65 
+15322,Foundations of Machine Learning,Cheng Peng,DS,002,3001,Spring 2026,Tu|Th,09:30 AM,10:45 AM,Data Science Building Room 305(On Grounds),43 / 65 
+15323,Foundations of Machine Learning,Michael Freenor,DS,003,3001,Spring 2026,Tu|Th,03:30 PM,04:45 PM,Data Science Building Room 305(On Grounds),26 / 65 
+21143,Foundations of Machine Learning,Ethan Nelson,DS,004,3001,Spring 2026,Mo|We,05:00 PM,06:15 PM,Data Science Building Room 305(On Grounds),65 / 65 
+15310,Analytics I: Foundations of Machine Learning,Brian Wright,DS,001,3021,Spring 2026,Tu|Th,02:00 PM,03:15 PM,Data Science Building Room 205(On Grounds),60 / 65 
+15311,Analytics I: Foundations of Machine Learning,Terence Johnson,DS,002,3021,Spring 2026,Tu|Th,03:30 PM,04:45 PM,Data Science Building Room 205(On Grounds),62 / 65 
+15294,Mathematics for Data Science,Gianluca Guadagni,DS,100,3025,Spring 2026,Tu|Th,11:00 AM,12:15 PM,Data Science Building Room 205(On Grounds),56 / 65 
+15314,Mathematics for Data Science,Gianluca Guadagni,DS,101,3025,Spring 2026,We,01:00 PM,01:50 PM,Data Science Building Room 205(On Grounds),56 / 65 
+15312,Mathematics for Data Science,Gianluca Guadagni,DS,200,3025,Spring 2026,Tu|Th,12:30 PM,01:45 PM,Data Science Building Room 205(On Grounds),65 / 65 
+15315,Mathematics for Data Science,Gianluca Guadagni,DS,201,3025,Spring 2026,Mo,01:00 PM,01:50 PM,Data Science Building Room 205(On Grounds),65 / 65 
+18923,Principles of Inference and Prediction,Prince Afriyie,DS,001,3026,Spring 2026,Mo|We,02:00 PM,03:15 PM,Data Science Building Room 306(On Grounds),44 / 47 
+18942,Principles of Inference and Prediction,Prince Afriyie,DS,002,3026,Spring 2026,Mo|We,03:30 PM,04:45 PM,Data Science Building Room 306(On Grounds),26 / 47 
+15249,Data Science Project,Javier Rasero,DS,001,4002,Spring 2026,Mo|We|Fr,10:00 AM,10:50 AM,Data Science Building Room 205(On Grounds),49 / 65 
+15306,Data Science Project,Karsten Siller,DS,002,4002,Spring 2026,Mo|We|Fr,11:00 AM,11:50 AM,Data Science Building Room 206(On Grounds),47 / 47 
+19619,Data Design II: Interactive Applications,Mai Dahshan,DS,001,4023,Spring 2026,Tu|Th,12:30 PM,01:45 PM,Data Science Building Room 306(On Grounds),"16 / 27 <span class=""text-danger"">(28 / 47)</span>"
+18924,Value II: Explainable AI,Farhana Faruqe,DS,001,4024,Spring 2026,Tu|Th,02:00 PM,03:15 PM,Data Science Building Room 306(On Grounds),47 / 47 
+18943,Value II: Explainable AI,Chirag Agarwal,DS,002,4024,Spring 2026,Tu|Th,03:30 PM,04:45 PM,Data Science Building Room 306(On Grounds),23 / 47 
+19620,Introduction to Deep Learning,Jianxin Xie,DS,001,4125,Spring 2026,Mo|We|Fr,10:00 AM,10:50 AM,Data Science Building Room 206(On Grounds),18 / 47 
+18925,Data by Design,Loreto Alonzi,DS,001,4320,Spring 2026,Mo|We,02:00 PM,03:15 PM,Data Science Building Room 206(On Grounds),26 / 47 
+18944,Data by Design,Loreto Alonzi,DS,002,4320,Spring 2026,Mo|We,03:30 PM,04:45 PM,Data Science Building Room 206(On Grounds),41 / 47 
+15252,Independent Study in Data Science,Alex Gates,DS,001,4993,Spring 2026,,,,(On Grounds),0 / 1 
+15303,Independent Study in Data Science,Stephen Baek,DS,002,4993,Spring 2026,,,,(On Grounds),1 / 3 
+15272,Text as Data,Rafael Alvarado,DS,001,5001,Spring 2026,Mo|We|Fr,11:00 AM,11:50 AM,Data Science Building Room 205(On Grounds),36 / 65 
+19615,Text as Data,Sree Mallikarjun,DS,002,5001,Spring 2026,Tu,06:00 PM,07:00 PM,Web-Based Course(Online),40 / 40 
+19616,Healthcare Data Science,Christian Wernz,DS,001,5003,Spring 2026,Tu,07:15 PM,08:15 PM,Web-Based Course(Online),41 / 40 
+20859,Don't Invent The Torment Nexus: The History of Technology & Work,Mar Hicks,DS,001,5007,Spring 2026,Tu,08:30 PM,09:30 PM,Web-Based Course(Online),11 / 60 
+18927,Computation for Data Science,Yuri Malitsky,DS,001,5012,Spring 2026,We,08:30 PM,09:30 PM,Web-Based Course(Online),66 / 75 
+21576,Interactive Applications,Mai Dahshan,DS,001,5023,Spring 2026,Tu|Th,12:30 PM,01:45 PM,Data Science Building Room 306(On Grounds),"12 / 20 <span class=""text-danger"">(28 / 47)</span>"
+18928,Understanding Uncertainty,Jeffrey Woo,DS,001,5030,Spring 2026,Tu,07:15 PM,08:15 PM,Web-Based Course(Online),54 / 75 
+21266,Deep Learning in Environmental Science,Antonios Mamalakis,DS,001,5070,Spring 2026,Tu|Th,09:30 AM,10:45 AM,New Cabell Hall 395(On Grounds),"1 / 7 <span class=""text-danger"">(20 / 25)</span>"
+19618,Advanced Cloud Computing,Neal Magee,DS,001,5220,Spring 2026,Mo|We|Fr,12:00 PM,12:50 PM,Data Science Building Room 205(On Grounds),45 / 65 
+18929,Data Engineering I: Data Pipeline Architecture,Jonathan Kropko,DS,001,6001,Spring 2026,Tu,08:30 PM,09:30 PM,Web-Based Course(Online),53 / 75 
+18930,Ethics of Big Data I,Farhana Faruqe,DS,001,6002,Spring 2026,Tu|Th,09:30 AM,10:45 AM,Data Science Building Room 306(On Grounds),44 / 47 
+18934,Ethics of Big Data I,Farhana Faruqe,DS,002,6002,Spring 2026,Tu|Th,11:00 AM,12:15 PM,Data Science Building Room 306(On Grounds),42 / 47 
+18935,Ethics of Big Data I,Renee Cummings,DS,003,6002,Spring 2026,Th,06:00 PM,07:00 PM,Web-Based Course(Online),52 / 65 
+18936,Ethics of Big Data I,Renee Cummings,DS,004,6002,Spring 2026,Th,06:00 PM,07:00 PM,Web-Based Course(Online),46 / 45 
+18932,Data Science Capstone,Philip Waggoner,DS,001,6015,Spring 2026,Th,07:15 PM,09:15 PM,Web-Based Course(Online),14 / 30 
+18939,Data Science Capstone,Rafael Alvarado,DS,002,6015,Spring 2026,Th,07:15 PM,09:15 PM,Web-Based Course(Online),14 / 30 
+18940,Data Science Capstone,Adam Tashman,DS,003,6015,Spring 2026,Th,07:15 PM,09:15 PM,Web-Based Course(Online),22 / 30 
+18931,Machine Learning I: Introduction to Predictive Modeling,Jeffrey Woo,DS,001,6021,Spring 2026,We,07:15 PM,08:15 PM,Web-Based Course(Online),53 / 75 
+18933,Machine Learning II: Data Mining & Statistical Learning,Michael Porter,DS,001,6030,Spring 2026,Tu|Th,09:30 AM,10:45 AM,Data Science Building Room 206(On Grounds),44 / 47 
+18941,Machine Learning II: Data Mining & Statistical Learning,Michael Porter,DS,002,6030,Spring 2026,Tu|Th,11:00 AM,12:15 PM,Data Science Building Room 206(On Grounds),46 / 47 
+15307,Machine Learning III: Deep Learning,Tom Hartvigsen,DS,001,6050,Spring 2026,Mo|We|Fr,10:00 AM,10:50 AM,Data Science Building Room 306(On Grounds),46 / 47 
+18937,Machine Learning III: Deep Learning,Tom Hartvigsen,DS,002,6050,Spring 2026,Mo|We|Fr,11:00 AM,11:50 AM,Data Science Building Room 306(On Grounds),45 / 47 
+18938,Machine Learning III: Deep Learning,Heman Shakeri,DS,003,6050,Spring 2026,We,07:15 PM,08:15 PM,Web-Based Course(Online),79 / 75 
+15266,Computation II: Numerical Analysis & Optimization,Heman Shakeri,DS,001,6210,Spring 2026,Mo|We,12:30 PM,01:45 PM,Data Science Building Room 246(On Grounds),5 / 16 
+15267,Theory II: Inference & Prediction,Jordan Bryan; Thomas Stewart,DS,001,6310,Spring 2026,Tu|Th,09:30 AM,10:45 AM,Data Science Building Room 246(On Grounds),5 / 16 
+20445,Physics-Aware Deep Learning,Stephen Baek,DS,001,6404,Spring 2026,Tu|Th,11:00 AM,12:15 PM,Data Science Building Room 246(On Grounds),11 / 13 
+15268,Advanced Machine Learning II: Methods & Application,Aiying Zhang,DS,001,6410,Spring 2026,Mo|We,09:30 AM,10:45 AM,Data Science Building Room 246(On Grounds),5 / 16 
+20793,Time Series Modeling,Don Brown,DS,001,6425,Spring 2026,Mo|We,02:00 PM,03:15 PM,Data Science Building Room 246(On Grounds),8 / 18 
+15265,"Value I: Data Ethics, Policy and Governance",Jess Reia,DS,001,6700,Spring 2026,Mo|We,03:30 PM,04:45 PM,Data Science Building Room 246(On Grounds),19 / 20 
+15263,Independent Study,Gianluca Guadagni,DS,001,6993,Spring 2026,,,,(On Grounds),1 / 3 
+15293,Independent Study,John Van Horn,DS,002,6993,Spring 2026,,,,(On Grounds),0 / 5 
+15299,Independent Study,Stephen Baek,DS,003,6993,Spring 2026,,,,(On Grounds),0 / 5 
+15300,Independent Study,Slava Krushkal,DS,004,6993,Spring 2026,,,,(On Grounds),0 / 5 
+21810,Independent Study,Mar Hicks,DS,005,6993,Spring 2026,,,,(On Grounds),1 / 3 
+21874,Independent Study,Tom Hartvigsen,DS,006,6993,Spring 2026,,,,(On Grounds),1 / 3 
+21877,Independent Study,Neal Magee,DS,007,6993,Spring 2026,,,,(On Grounds),1 / 3 
+21955,Independent Study,Sheng Li,DS,008,6993,Spring 2026,,,,(On Grounds),4 / 6 
+22027,Independent Study,Chirag Agarwal,DS,009,6993,Spring 2026,,,,(On Grounds),2 / 3 
+22028,Independent Study,Aiying Zhang,DS,010,6993,Spring 2026,,,,(On Grounds),2 / 1 
+22064,Independent Study,Chirag Agarwal,DS,011,6993,Spring 2026,,,,(On Grounds),1 / 3 
+20099,Design I: Human-Centered Design,Nur Yildirim,DS,001,7600,Spring 2026,Tu|Th,02:00 PM,03:15 PM,Data Science Building Room 206(On Grounds),23 / 25 
+19622,Network Science,Alex Gates,DS,001,8104,Spring 2026,Tu|Th,03:30 PM,04:45 PM,Data Science Building Room 246(On Grounds),7 / 16 
+15253,Master's Level Thesis Research,Aaron Abrams,DS,001,8998,Spring 2026,,,,(On Grounds),0 / 5 
+15254,Master's Level Thesis Research,Prince Afriyie,DS,002,8998,Spring 2026,,,,(On Grounds),0 / 5 
+15255,Master's Level Thesis Research,Chirag Agarwal,DS,003,8998,Spring 2026,,,,(On Grounds),5 / 5 
+15269,Master's Level Thesis Research,YY Ahn,DS,004,8998,Spring 2026,,,,(On Grounds),0 / 5 
+15285,Master's Level Thesis Research,Loreto Alonzi,DS,005,8998,Spring 2026,,,,(On Grounds),0 / 5 
+15286,Master's Level Thesis Research,Rafael Alvarado,DS,006,8998,Spring 2026,,,,(On Grounds),0 / 5 
+15287,Master's Level Thesis Research,Stephen Baek,DS,007,8998,Spring 2026,,,,(On Grounds),2 / 5 
+15288,Master's Level Thesis Research,Hannah Bako,DS,008,8998,Spring 2026,,,,(On Grounds),0 / 5 
+15289,Master's Level Thesis Research,Peter Beling,DS,009,8998,Spring 2026,,,,(On Grounds),0 / 5 
+15290,Master's Level Thesis Research,Jeffrey Blume,DS,010,8998,Spring 2026,,,,(On Grounds),1 / 5 
+15291,Master's Level Thesis Research,Don Brown,DS,011,8998,Spring 2026,,,,(On Grounds),0 / 5 
+15292,Master's Level Thesis Research,Jordan Bryan,DS,012,8998,Spring 2026,,,,(On Grounds),0 / 5 
+15301,Master's Level Thesis Research,Tyler Cody,DS,013,8998,Spring 2026,,,,(On Grounds),0 / 5 
+15302,Master's Level Thesis Research,Mai Dahshan,DS,014,8998,Spring 2026,,,,(On Grounds),0 / 5 
+15321,Master's Level Thesis Research,Farhana Faruqe,DS,015,8998,Spring 2026,,,,(On Grounds),1 / 5 
+15326,Master's Level Thesis Research,Judy Fox,DS,016,8998,Spring 2026,,,,(On Grounds),0 / 5 
+18946,Master's Level Thesis Research,Alex Gates,DS,017,8998,Spring 2026,,,,(On Grounds),0 / 5 
+18947,Master's Level Thesis Research,Daniel Graham,DS,018,8998,Spring 2026,,,,(On Grounds),0 / 5 
+18948,Master's Level Thesis Research,Gianluca Guadagni,DS,019,8998,Spring 2026,,,,(On Grounds),0 / 5 
+19023,Master's Level Thesis Research,Tom Hartvigsen,DS,020,8998,Spring 2026,,,,(On Grounds),2 / 5 
+20333,Master's Level Thesis Research,Teague Henry,DS,021,8998,Spring 2026,,,,(On Grounds),0 / 5 
+20334,Master's Level Thesis Research,Mar Hicks,DS,022,8998,Spring 2026,,,,(On Grounds),0 / 5 
+20335,Master's Level Thesis Research,Terence Johnson,DS,023,8998,Spring 2026,,,,(On Grounds),0 / 5 
+20336,Master's Level Thesis Research,Jonathan Kropko,DS,024,8998,Spring 2026,,,,(On Grounds),0 / 5 
+20337,Master's Level Thesis Research,Natalie Kupperman,DS,025,8998,Spring 2026,,,,(On Grounds),0 / 5 
+20338,Master's Level Thesis Research,Lei Li,DS,026,8998,Spring 2026,,,,(On Grounds),0 / 5 
+20339,Master's Level Thesis Research,Sheng Li,DS,027,8998,Spring 2026,,,,(On Grounds),4 / 5 
+20340,Master's Level Thesis Research,Neal Magee,DS,028,8998,Spring 2026,,,,(On Grounds),0 / 5 
+20341,Master's Level Thesis Research,Paul Perrin,DS,029,8998,Spring 2026,,,,(On Grounds),0 / 5 
+20342,Master's Level Thesis Research,Michael Porter,DS,030,8998,Spring 2026,,,,(On Grounds),0 / 5 
+20343,Master's Level Thesis Research,Javier Rasero,DS,031,8998,Spring 2026,,,,(On Grounds),1 / 5 
+20344,Master's Level Thesis Research,Jess Reia,DS,032,8998,Spring 2026,,,,(On Grounds),0 / 5 
+20345,Master's Level Thesis Research,Heman Shakeri,DS,033,8998,Spring 2026,,,,(On Grounds),2 / 5 
+20346,Master's Level Thesis Research,Karsten Siller,DS,034,8998,Spring 2026,,,,(On Grounds),0 / 5 
+20347,Master's Level Thesis Research,Mona Sloane,DS,035,8998,Spring 2026,,,,(On Grounds),0 / 5 
+20348,Master's Level Thesis Research,Thomas Stewart,DS,036,8998,Spring 2026,,,,(On Grounds),0 / 5 
+20349,Master's Level Thesis Research,Adam Tashman,DS,037,8998,Spring 2026,,,,(On Grounds),1 / 5 
+20350,Master's Level Thesis Research,Stephen Turner,DS,038,8998,Spring 2026,,,,(On Grounds),0 / 5 
+20351,Master's Level Thesis Research,John Van Horn,DS,039,8998,Spring 2026,,,,(On Grounds),0 / 5 
+20352,Master's Level Thesis Research,Brian Wright,DS,040,8998,Spring 2026,,,,(On Grounds),1 / 5 
+20353,Master's Level Thesis Research,Jianxin Xie,DS,041,8998,Spring 2026,,,,(On Grounds),1 / 5 
+20354,Master's Level Thesis Research,Nur Yildirim,DS,042,8998,Spring 2026,,,,(On Grounds),1 / 5 
+20355,Master's Level Thesis Research,Aiying Zhang,DS,043,8998,Spring 2026,,,,(On Grounds),1 / 5 
+20356,Master's Level Thesis Research,David Danks,DS,044,8998,Spring 2026,,,,(On Grounds),0 / 5 
+15262,Dissertation Research,Aaron Abrams,DS,001,9999,Spring 2026,,,,(On Grounds),0 / 3 
+15270,Dissertation Research,Prince Afriyie,DS,002,9999,Spring 2026,,,,(On Grounds),0 / 3 
+15281,Dissertation Research,Chirag Agarwal,DS,003,9999,Spring 2026,,,,(On Grounds),1 / 3 
+15282,Dissertation Research,YY Ahn,DS,004,9999,Spring 2026,,,,(On Grounds),2 / 3 
+15283,Dissertation Research,Loreto Alonzi,DS,005,9999,Spring 2026,,,,(On Grounds),0 / 3 
+15284,Dissertation Research,Rafael Alvarado,DS,006,9999,Spring 2026,,,,(On Grounds),0 / 3 
+15320,Dissertation Research,Stephen Baek,DS,007,9999,Spring 2026,,,,(On Grounds),5 / 10 
+15325,Dissertation Research,Hannah Bako,DS,008,9999,Spring 2026,,,,(On Grounds),0 / 3 
+18949,Dissertation Research,Peter Beling,DS,009,9999,Spring 2026,,,,(On Grounds),1 / 3 
+18950,Dissertation Research,Jeffrey Blume,DS,010,9999,Spring 2026,,,,(On Grounds),0 / 3 
+18951,Dissertation Research,Don Brown,DS,011,9999,Spring 2026,,,,(On Grounds),1 / 3 
+18952,Dissertation Research,Jordan Bryan,DS,012,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20358,Dissertation Research,Tyler Cody,DS,013,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20359,Dissertation Research,Mai Dahshan,DS,014,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20360,Dissertation Research,Farhana Faruqe,DS,015,9999,Spring 2026,,,,(On Grounds),1 / 3 
+20361,Dissertation Research,Judy Fox,DS,016,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20362,Dissertation Research,Alex Gates,DS,017,9999,Spring 2026,,,,(On Grounds),2 / 3 
+20363,Dissertation Research,Daniel Graham,DS,018,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20364,Dissertation Research,Gianluca Guadagni,DS,019,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20365,Dissertation Research,Tom Hartvigsen,DS,020,9999,Spring 2026,,,,(On Grounds),3 / 3 
+20366,Dissertation Research,Teague Henry,DS,021,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20367,Dissertation Research,Mar Hicks,DS,022,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20368,Dissertation Research,Terence Johnson,DS,023,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20369,Dissertation Research,Jonathan Kropko,DS,024,9999,Spring 2026,,,,(On Grounds),1 / 3 
+20370,Dissertation Research,Natalie Kupperman,DS,025,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20371,Dissertation Research,Lei Li,DS,026,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20372,Dissertation Research,Sheng Li,DS,027,9999,Spring 2026,,,,(On Grounds),5 / 7 
+20373,Dissertation Research,Neal Magee,DS,028,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20374,Dissertation Research,Paul Perrin,DS,029,9999,Spring 2026,,,,(On Grounds),1 / 3 
+21734,Dissertation Research,Michael Porter,DS,030,9999,Spring 2026,,,,(On Grounds),0 / 5 
+20376,Dissertation Research,Javier Rasero,DS,031,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20377,Dissertation Research,Jess Reia,DS,032,9999,Spring 2026,,,,(On Grounds),1 / 3 
+20378,Dissertation Research,Heman Shakeri,DS,033,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20379,Dissertation Research,Karsten Siller,DS,034,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20380,Dissertation Research,Mona Sloane,DS,035,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20381,Dissertation Research,Thomas Stewart,DS,036,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20382,Dissertation Research,Adam Tashman,DS,037,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20383,Dissertation Research,Stephen Turner,DS,038,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20384,Dissertation Research,David Danks,DS,039,9999,Spring 2026,,,,(On Grounds),1 / 3 
+20386,Dissertation Research,John Van Horn,DS,041,9999,Spring 2026,,,,(On Grounds),2 / 3 
+20387,Dissertation Research,Brian Wright,DS,042,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20388,Dissertation Research,Jianxin Xie,DS,043,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20389,Dissertation Research,Nur Yildirim,DS,044,9999,Spring 2026,,,,(On Grounds),0 / 3 
+20375,Dissertation Research,Aiying Zhang,DS,045,9999,Spring 2026,,,,(On Grounds),0 / 3 
