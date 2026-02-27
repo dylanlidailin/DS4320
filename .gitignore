@@ -1,4 +1,3 @@
 *.csv
 *.db
-*.zip
 !course_sections.csv
