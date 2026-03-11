@@ -1,3 +1,4 @@
 *.csv
 *.db
 !course_sections.csv
+.cursor
