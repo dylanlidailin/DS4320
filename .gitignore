@@ -2,4 +2,8 @@
 *.db
 !course_sections.csv
 !aq_one_results_1774229447.csv
+!calendar.csv
+!daily_features.csv
+!daily_prices.csv
+!tickers.csv
 .cursor
