@@ -1,4 +1,5 @@
 *.csv
 *.db
 !course_sections.csv
+!aq_one_results_1774229447.csv
 .cursor
